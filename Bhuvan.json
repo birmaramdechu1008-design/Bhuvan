@@ -1,38 +1,37 @@
 [
-    {
-        "device_id": "63080ad09c629c5e",
-        "key": "DADDY",
-        "expirydate": "31-12-2025",
-        "Allowoffline": false, 
-        "user": "Apun"
- },   
-{
-        "device_id": "b7fcd04f7c59af3d",
-        "key": "opjat",
-        "expirydate": "31-12-2025",
-        "Allowoffline": false,
-        "user": "OPjaat"
- },
-{
-        "device_id": "5a473fea8dbd5fd3",
-        "key": "Tou54hu8",
-        "expirydate": "31-12-2025",
-        "Allowoffline": false,
-        "user": "Me"
+  {
+    "device_id": "63080ad09c629c5e",
+    "key": "DADDY",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false,
+    "user": "Apun"
   },
-{
-        "device_id": "96fbae8df58e7044",
-        "key": "5y0i6r1b6",
-        "expirydate": "15-12-2025",
-        "Allowoffline": false,
-        "user": "Radha Mohan"
+  {
+    "device_id": "b7fcd04f7c59af3d",
+    "key": "opjat",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false,
+    "user": "OPjaat"
   },
-{
-        "device_id": "44f4b611258892c2",
-        "key": "vi7rfj65f",
-        "expirydate": "15-12-2025",
-        "Allowoffline": false,
-        "user": "Amarjot"
+  {
+    "device_id": "5a473fea8dbd5fd3",
+    "key": "Tou54hu8",
+    "expirydate": "03-03-2026",
+    "user": "Me",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "96fbae8df58e7044",
+    "key": "5y0i6r1b6",
+    "expirydate": "15-12-2025",
+    "Allowoffline": false,
+    "user": "Radha Mohan"
+  },
+  {
+    "device_id": "44f4b611258892c2",
+    "key": "vi7rfj65f",
+    "expirydate": "15-12-2025",
+    "Allowoffline": false,
+    "user": "Amarjot"
   }
-
 ]
