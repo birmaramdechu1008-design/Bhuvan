@@ -26,5 +26,12 @@
     "expirydate": "15-12-2025",
     "Allowoffline": false,
     "user": "Amarjot"
+  },
+  {
+    "device_id": "b38873d1be017633",
+    "key": "BAN99LJQ1QE",
+    "expirydate": "16-02-2026",
+    "user": "Mh",
+    "Allowoffline": false
   }
 ]
